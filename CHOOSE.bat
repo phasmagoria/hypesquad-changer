@@ -22,8 +22,10 @@ GOTO END
 :BRAVERY
 ECHO You should have the Bravery Hypesquad badge now.
 python bravery.py
+GOTO END
 :LEAVE
 ECHO You should have left Hypesquad now.
 python leave.py
+GOTO END
 :END
 pause
