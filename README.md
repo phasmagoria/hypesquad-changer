@@ -4,4 +4,4 @@ CHANGELOG:
 + Added new 'ua' config option.
 + Leave module which allows you to leave Hypesquad all together.
 + Added this option to the CHOOSE.BAT as well.
-No removals.
+- No removals.
